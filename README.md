@@ -1,6 +1,6 @@
 # Word Scrambler
 
-A simple Java-based game that scrambles words and challenges players to guess the original word.  
+A simple Java-based game that scrambles letters of a word. it's one part of the game
 Built using **Java** and **Eclipse IDE**.
 
 ## Features
