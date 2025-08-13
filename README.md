@@ -5,8 +5,6 @@ Built using **Java** and **Eclipse IDE**.
 
 ## Features
 - Randomly scrambles words from a predefined list
-- Allows user input for guesses
-- Tracks correct and incorrect answers
 - Beginner-friendly Java implementation
 
 ## How to Run
